@@ -18,3 +18,6 @@ The project offers a menu-driven interface that allows easy selection between fi
 # Demonstration
 https://github.com/PrantikGhosh/SudokuSolver-using-DIP-OpenCV/assets/84172492/3b632e24-c6a0-4ee6-9af2-fe3d2f03622b
 
+---
+
+Feel free to contribute to this project by forking the repository and submitting pull requests. If you encounter any issues or have suggestions for improvements, please open an issue on GitHub.
