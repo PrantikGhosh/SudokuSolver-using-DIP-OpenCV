@@ -1,5 +1,5 @@
 # SudokuSolver-using-DIP-OpenCV
-This project uses computer vision and machine learning techniques to detect and solve Sudoku puzzles from images.
+This project uses computer vision and machine learning techniques to detect and solve Sudoku puzzles from images uploaded by the user.
 
 This repository includes the code and resources needed to detect Sudoku grids from images, recognize and extract digits from the grid, solve the Sudoku puzzle, and overlay the solution onto the original image. Additionally, it features a live project video description showcasing the program in action, along with an architecture diagram detailing the workflow.
 
